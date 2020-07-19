@@ -46,8 +46,8 @@ function App() {
                     <div className="nav">
                         <a href="/">
                             <div className="branding">
-                                <div className="logo"><img src={logo} alt="Rebel Insurance Logo"></img></div>
-                                <div className="site-title"><h1>Rebel Insurance</h1></div>
+                                <div className="logo"><img src={logo} alt="We Insure Nevada Logo"></img></div>
+                                <div className="site-title"><h1>We Insure Nevada</h1></div>
                             </div>
                         </a>
                         <div className="links">Call: <a href="tel:720-344-2400">(702) 344-2400</a></div>
