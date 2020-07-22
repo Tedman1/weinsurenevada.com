@@ -27,13 +27,13 @@ export default () => {
             <Slider {...settings}>
                 <div>
                     <div className="text-center">
-                        <h1 className="h1-slider">Fast SR-22</h1>
-                        <p className="p-slider">Get An SR-22 In Minutes</p>
+                        <h1 className="h1-slider">Fast Service</h1>
+                        <p className="p-slider">Get A Policy In Minutes</p>
                     </div>
                 </div>
                 <div>
                     <div className="text-center">
-                        <h1 className="h1-slider">SR-22 Pros</h1>
+                        <h1 className="h1-slider">Insurance Pros</h1>
                         <p className="p-slider">Get An SR-22 Separate From Your Current Insurance</p>
                     </div>
                 </div>
