@@ -33,7 +33,7 @@ export default () => {
                 </div>
                 <div>
                     <div className="text-center">
-                        <h1 className="h1-slider">Affordable Coverage</h1>
+                        <h1 className="h1-slider">Affordable Rates</h1>
                         <p className="p-slider">We Sell Insurance We Believe In</p>
                     </div>
                 </div>
