@@ -28,7 +28,7 @@ export default () => {
                 <div>
                     <div className="text-center">
                         <h1 className="h1-slider">Insurance Pros</h1>
-                        <p className="p-slider">We Only Represent Reputable Companies</p>
+                        <p className="p-slider">We Use Reputable Companies</p>
                     </div>
                 </div>
                 <div>
