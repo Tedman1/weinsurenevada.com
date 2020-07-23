@@ -27,20 +27,20 @@ export default () => {
             <Slider {...settings}>
                 <div>
                     <div className="text-center">
-                        <h1 className="h1-slider">Fast Service</h1>
-                        <p className="p-slider">Get A Policy In Minutes</p>
-                    </div>
-                </div>
-                <div>
-                    <div className="text-center">
                         <h1 className="h1-slider">Insurance Pros</h1>
-                        <p className="p-slider">Get An SR-22 Separate From Your Current Insurance</p>
+                        <p className="p-slider">We Only Represent Reputable Companies</p>
                     </div>
                 </div>
                 <div>
                     <div className="text-center">
                         <h1 className="h1-slider">Affordable Coverage</h1>
-                        <p className="p-slider">We Only Sell Insurance We Believe In</p>
+                        <p className="p-slider">We Sell Insurance We Believe In</p>
+                    </div>
+                </div>
+                <div>
+                    <div className="text-center">
+                        <h1 className="h1-slider">Express Service</h1>
+                        <p className="p-slider">We Can Insure The Same Day</p>
                     </div>
                 </div>
             </Slider>
